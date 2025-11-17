@@ -33,7 +33,7 @@ Achievements are required to progress through the game, you must defeat various 
 
 ## Controls
 
-- **Left / Right** – Move  
+- **A / D** – Move  
 - **Space** – Jump  
 - **Left Mouse Click** – Aim
 - **Left Mouse Click Release** – Shoot
