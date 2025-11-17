@@ -41,7 +41,7 @@ Achievements are required to progress through the game, you must defeat various 
 
 ---
 
-## All the main scripts I wrote are located in:
+## All the main scripts are located in:
 
 Assets > Scripts
 ## Technologies
