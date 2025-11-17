@@ -27,6 +27,7 @@ Achievements are required to progress through the game, you must defeat various 
 - Interactable NPC with dialogue
 
 <img width="1478" height="825" alt="Daato1" src="https://github.com/user-attachments/assets/ef4e06f9-cb47-405a-b366-42be24e8b83b" />
+<img width="855" height="479" alt="DaatoSmall1" src="https://github.com/user-attachments/assets/a8b7a70d-ad55-4fdb-a98d-fdce55f47c88" />
 
 ---
 
