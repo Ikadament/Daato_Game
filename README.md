@@ -41,10 +41,13 @@ Achievements are required to progress through the game, you must defeat various 
 
 ---
 
-## All the main scripts are located in:
-
-Assets > Scripts
 ## Technologies
 
 - Unity (2D)
 - C#
+
+---
+
+## All the main scripts are located in:
+
+Assets > Scripts
