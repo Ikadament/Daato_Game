@@ -23,7 +23,7 @@ Achievements are required to progress through the game, you must defeat various 
 - Object destruction
 - Fast travel mechanic
 - Small timed challenges  
-- Graphic design approach to environment art
+- Graphic design approach to environment art / "Faked" glitched world
 - Interactable NPC with dialogue
 
 <img width="1478" height="825" alt="Daato1" src="https://github.com/user-attachments/assets/ef4e06f9-cb47-405a-b366-42be24e8b83b" />
