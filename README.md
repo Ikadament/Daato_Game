@@ -38,9 +38,12 @@ Achievements are required to progress through the game, you must defeat various 
 - **Left Mouse Click** – Aim
 - **Left Mouse Click Release** – Shoot
 - **E** - Interact
-  
+
 ---
 
+## All the main scripts I wrote are located in:
+
+Assets > Scripts
 ## Technologies
 
 - Unity (2D)
