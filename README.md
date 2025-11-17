@@ -45,4 +45,3 @@ Achievements are required to progress through the game, you must defeat various 
 
 - Unity (2D)
 - C#
-- WebGL build exported for browser play
